@@ -73,7 +73,7 @@ Local by default; the cloud is always an explicit opt-in.
 
 ---
 
-### 🌾 [Harvester](https://github.com/Belzeeebuth/full-claude-try) · a persistent farming game for Discord
+### 🌾 [Harvester](https://github.com/Belzeeebuth/harvester) · a persistent farming game for Discord
 
 A full game server, built to production standards rather than as a toy bot.
 
