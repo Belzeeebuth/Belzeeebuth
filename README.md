@@ -100,7 +100,7 @@ Small, but it ties the whole desktop together.
 
 | | |
 |---|---|
-| **Desktop** | Arch Linux · Omarchy · Hyprland · KDE Plasma · Wayland · systemd · archiso |
+| **Desktop** | Arch Linux · CachyOS · Niri · KDE Plasma · Wayland · systemd · archiso |
 | **Languages** | Python · TypeScript / JavaScript · Shell · GLSL · QML |
 | **Interfaces** | Qt / PySide6 · QML · Discord.js |
 | **Data** | PostgreSQL · Redis |
